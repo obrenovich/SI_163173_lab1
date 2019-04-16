@@ -1,0 +1,5 @@
+commit fd9ad1218ba4ec5e8a4c3267b4af47015ab4f0bc (HEAD -> logs, origin/master, master)
+Author: obrenovich <obrenovich.milan@gmail.com>
+Date:   Tue Apr 16 16:22:49 2019 +0200
+
+    initial commit
