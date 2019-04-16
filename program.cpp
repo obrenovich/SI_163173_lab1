@@ -11,5 +11,6 @@ cout<<163173<<endl<<	//
 }
 
 int main () {
-	//TODO
+ printMyName()
+printMyIndex()
 }
